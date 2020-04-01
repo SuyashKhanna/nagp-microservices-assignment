@@ -1,0 +1,36 @@
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.exe
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.deps.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\bin\Debug\netcoreapp3.1\User Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\staticwebassets\User Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\staticwebassets\User Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\obj\Debug\netcoreapp3.1\User Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.exe
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.deps.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\bin\Debug\netcoreapp3.1\User Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\staticwebassets\User Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\staticwebassets\User Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\User Service\User Service.API\obj\Debug\netcoreapp3.1\User Service.pdb
